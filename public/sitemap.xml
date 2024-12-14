@@ -4,10 +4,14 @@
   <sitemap>
     <loc>http://localhost:1313/en-gb/sitemap.xml</loc>
     
+      <lastmod>2023-05-02T00:00:00+03:00</lastmod>
+    
   </sitemap>
   
   <sitemap>
     <loc>http://localhost:1313/ru-ru/sitemap.xml</loc>
+    
+      <lastmod>2023-05-02T00:00:00+03:00</lastmod>
     
   </sitemap>
   
