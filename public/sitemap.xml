@@ -7,27 +7,7 @@
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/de-de/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/fr-fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/pt-br/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
     <loc>http://localhost:1313/ru-ru/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/it/sitemap.xml</loc>
     
   </sitemap>
   
