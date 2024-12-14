@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Записи on rvenie</title>
-    <link>http://localhost:1313/ru-ru/posts/</link>
+    <link>http://localhost:63939/ru-ru/posts/</link>
     <description>Recent content in Записи on rvenie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0300</lastBuildDate><atom:link href="http://localhost:1313/ru-ru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0300</lastBuildDate><atom:link href="http://localhost:63939/ru-ru/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Содержание</title>
-      <link>http://localhost:1313/ru-ru/posts/table-of-content/</link>
+      <link>http://localhost:63939/ru-ru/posts/table-of-content/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/ru-ru/posts/table-of-content/</guid>
+      <guid>http://localhost:63939/ru-ru/posts/table-of-content/</guid>
       
       <description>&lt;h2 id=&#34;содержание&#34;&gt;Содержание&lt;/h2&gt;
 &lt;p&gt;Эта тема поддерживает отображение содержания для записей в блоге.&lt;/p&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>Текст с математическими символами</title>
-      <link>http://localhost:1313/ru-ru/posts/math-typesetting/</link>
+      <link>http://localhost:63939/ru-ru/posts/math-typesetting/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/ru-ru/posts/math-typesetting/</guid>
+      <guid>http://localhost:63939/ru-ru/posts/math-typesetting/</guid>
       
       <description>&lt;p&gt;Математические обозначения в проекте Hugo можно включить с помощью
 &lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;сторонние библиотеки JavaScript&lt;/a&gt;.&lt;/p&gt;</description>
@@ -47,10 +47,10 @@
     
     <item>
       <title>Инструкция по использованию Markdown</title>
-      <link>http://localhost:1313/ru-ru/posts/markdown-syntax/</link>
+      <link>http://localhost:63939/ru-ru/posts/markdown-syntax/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/ru-ru/posts/markdown-syntax/</guid>
+      <guid>http://localhost:63939/ru-ru/posts/markdown-syntax/</guid>
       
       <description>&lt;p&gt;В этой статье предлагается образец базового синтаксиса Markdown, который можно использовать в файлах контента Hugo, а также показано как расширенна разметка базовые элементы HTML CSS в теме Hugo.&lt;/p&gt;</description>
       
@@ -58,10 +58,10 @@
     
     <item>
       <title>Обогащённый контент</title>
-      <link>http://localhost:1313/ru-ru/posts/rich-content/</link>
+      <link>http://localhost:63939/ru-ru/posts/rich-content/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/ru-ru/posts/rich-content/</guid>
+      <guid>http://localhost:63939/ru-ru/posts/rich-content/</guid>
       
       <description>&lt;p&gt;Hugo поставляется с несколькими &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;встроенными шорт кодами&lt;/a&gt; для обогащённого контента, вместе с &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;конфигурационным файлом для настройки конфиденциальности&lt;/a&gt; и списком простых шорт кодов для включения статичных не JS версий различных встраиваемых медиа.&lt;/p&gt;</description>
       
@@ -69,10 +69,10 @@
     
     <item>
       <title>Плейсхолдер текст</title>
-      <link>http://localhost:1313/ru-ru/posts/placeholder-text/</link>
+      <link>http://localhost:63939/ru-ru/posts/placeholder-text/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/ru-ru/posts/placeholder-text/</guid>
+      <guid>http://localhost:63939/ru-ru/posts/placeholder-text/</guid>
       
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
@@ -80,10 +80,10 @@
     
     <item>
       <title>Поддержка смайликов</title>
-      <link>http://localhost:1313/ru-ru/posts/emoji-support/</link>
+      <link>http://localhost:63939/ru-ru/posts/emoji-support/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/ru-ru/posts/emoji-support/</guid>
+      <guid>http://localhost:63939/ru-ru/posts/emoji-support/</guid>
       
       <description>&lt;p&gt;Смайлики могут быть задействован в проекте Hugo несколькими способами.&lt;/p&gt;</description>
       
