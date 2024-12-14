@@ -1,0 +1,4 @@
+theme = "m10c"
+baseURL = 'https://rvenie.pro'
+publishDir = "posts"
+
