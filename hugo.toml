@@ -1,3 +1,10 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://rvenie.pro'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "hugo-paper"
+
+[module]
+[[module.mounts]]
+source = 'content'
+target = 'content'
+excludeFiles = ['templates/**']
