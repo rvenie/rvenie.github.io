@@ -16,6 +16,9 @@
 - id: "footer.go_to_top"
   translation: "Go to top"
 
+- id: "footer.disclaimer"
+  translation: "style: <a href=\"https://github.com/hugo-sid/hugo-blog-awesome\" target=\"_blank\" rel=\"noopener\">HBA</a>."
+
 ## ERRORS ##
 - id: "errors.404"
   translation: "404 NOT FOUND"
