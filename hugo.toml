@@ -1,6 +1,5 @@
 baseURL = 'https://rvenie.pro/'
 title = 'rvenie'
-theme = 'hugo-blog-awesome'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
@@ -16,7 +15,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 # modern way: pull in theme component as hugo module
 [module]
   # Uncomment the next line to build and serve using local theme clone declared in the named Hugo workspace:
-    workspace = "hugo-blog-awesome.work"
+  #  workspace = "hugo-blog-awesome.work"
   [module.hugoVersion]
     extended = true
     min = "0.87.0"
@@ -58,23 +57,23 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
-    name = 'Home'
+    name = 'home'
     url = '/'
     weight = 10
   [[Languages.en-gb.menu.main]]
     pageRef="posts"
-    name = 'Posts'
+    name = 'posts'
     url = '/posts/'
     weight = 20
   [[Languages.en-gb.menu.main]]
     pageRef="about"
-    name = 'About'
+    name = 'about'
     url = '/about/'
     weight = 30
 
 [Languages.en-gb.params]
-  sitename = "Awesome hugo blog"
-  defaultColor = "dark" # set color mode: dark, light, auto
+  sitename = "rvenie"
+  defaultColor = "auto" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
@@ -98,9 +97,9 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  intro = "hi"
+  name = "Kustov D"
+  description = "my place personal place to place thoughts and scam"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -187,22 +186,22 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
-    name = 'Главная'
+    name = 'главная'
     url = '/'
     weight = 10
   [[Languages.ru-ru.menu.main]]
     pageRef="posts"
-    name = 'Записи'
+    name = 'записи'
     url = '/posts/'
     weight = 20
   [[Languages.ru-ru.menu.main]]
     pageRef="about"
-    name = 'О проекте'
+    name = 'кто я'
     url = '/about/'
     weight = 30
 
 [Languages.ru-ru.params]
-  sitename = "Превосходный hugo блог"
+  sitename = "rvenie"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
