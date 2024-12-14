@@ -7,10 +7,10 @@ tags:
   - emoji
 ---
 
-Смайлики могут быть задействован в проекте Hugo несколькими способами.
+Смайликии могут быть задействован в проекте Hugo несколькими способами.
 <!--more-->
 [`emojify`](https://gohugo.io/functions/emojify/) функция может быть напрямую вызвана в шаблоне или [встроенный короткий код](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes). 
-
+а
 Для включения смайликов на весь проект, установите значение `enableEmoji = true` в файле `hugo.toml` вашего сайта. Вы можете набрать смайлик shorthand codes непосредственно в файле с содержимым; К примеру, 
 
 `:see_no_evil:` :see_no_evil: `:hear_no_evil:` :hear_no_evil: `:speak_no_evil:` :speak_no_evil:
