@@ -1,4 +1,4 @@
 baseURL = 'https://rvenie.pro/'
 languageCode = 'en-us'
 title = 'Привет!'
-theme = 'ananke'
+theme = 'hugo-blog-awesome'
