@@ -1,3 +1,0 @@
-theme = "ananke"
-baseURL = 'https://rvenie.pro'
-publishDir = "posts"
