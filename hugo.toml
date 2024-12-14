@@ -2,7 +2,3 @@ baseURL = 'https://rvenie.pro/'
 languageCode = 'en-us'
 title = 'Привет!'
 theme = 'ananke'
-
-[module]
-  module.imports
-    path = "github.com/hugo-sid/hugo-blog-awesome"
