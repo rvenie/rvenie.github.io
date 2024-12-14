@@ -1,7 +1,7 @@
 baseURL = 'http://rvenie.pro'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "hugo-paper"
+theme = "paper"
 
 [module]
 [[module.mounts]]
